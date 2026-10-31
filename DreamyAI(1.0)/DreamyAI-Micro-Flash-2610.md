@@ -2,7 +2,7 @@
 
 | Model | Context |
 |---|---:|
-| DreamyAI-Micro-Flash2610.gguf | 16384 |
+| DreamyAI-Micro-Flash2610 | 16384 |
 
 Columns: Syntax · Consistency · Requirements · Efficiency · Overall (mean of the four).
 
