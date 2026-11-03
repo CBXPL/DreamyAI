@@ -1,8 +1,8 @@
 # Benchmark
 
-| Model | Context |
+| Model | Context | Thinking |
 |---|---:|
-| DreamyAI-2.0-Code-12B (5 BIT QUANT) | 24k |
+| DreamyAI-2.0-Code-12B (5 BIT QUANT) | 24k | Disabled |
 
 ## C++
 
