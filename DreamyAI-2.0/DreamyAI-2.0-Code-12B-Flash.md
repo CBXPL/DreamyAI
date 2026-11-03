@@ -2,7 +2,7 @@
 
 | Model | Context | Thinking |
 |---|---| ---:|
-| DreamyAI-2.0-Code-12B (5 BIT QUANT) | 24k | Disabled |
+| DreamyAI-2.0-Code-12B | 24k | Disabled |
 
 ## C++
 
