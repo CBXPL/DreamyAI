@@ -62,3 +62,16 @@
 | C# | 92.5% |
 | HTML | 87.8% |
 | **Overall** | **75.6%** |
+
+## Model comparison
+
+| Section | DreamyAI-2.0-DeepThink-1311 | Gemini 4 Hydrogen | DeepSeek v4.1 Flash | Delta (DeepSeek - DreamyAI) | Delta (Hydrogen - DreamyAI) |
+|---|---:|---:|---:|---:|---:|
+| Agentic Coding | 60.7% | 76.1% (AutomationBench) | 77.0% | +16.3 | +15.4 |
+| Tool Calling | 64.3% | 57.0% (Terminal-Bench 4.1) | 90.6% (tool execution) | +26.3 | -7.3 |
+| C++ | 72.9% | 98.8% | 89.9% | +17.0 | +25.9 |
+| C# | 92.5% | 99.6% | 92.6% | +0.1 | +7.1 |
+| HTML | 87.8% | 99.4% | 99.7% | +11.9 | +11.6 |
+| **Overall (everything/overall)** | **75.6%** | **86.2%** | **90.0%** | **+14.4** | **+10.6** |
+| **Overall (code only)** | **84.4%** | **99.3%** | **94.1%** | **+9.7** | **+14.9** |
+
