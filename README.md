@@ -8,4 +8,4 @@ DreamyAI Benchmarks.
 
 
 
-**DreamyAI 2.2 Series: COMING SOON (2.1 was an one model serie that was fully private)**
+**DreamyAI 2.2 Series: 0.5/? (W.I.P model) (2.1 was an one model serie that was fully private)**
