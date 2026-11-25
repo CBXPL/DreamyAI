@@ -78,7 +78,7 @@
 
 ## Model comparison
 
-| Section | DreamyAI-2.1 | DreamyAI-2.0-Pro 1811 *(carried over from DBK 1.5)* | DeepSeek v4.1 Flash *(carried over from DBK 1.5)* | Delta (DeepSeek - 2.2-Titan) | Delta (2.0 Pro - 2.2-Titan) |
+| Section | DreamyAI-2.2-Titan | DreamyAI-2.0-Pro 1811 *(carried over from DBK 1.5)* | DeepSeek v4.1 Flash *(carried over from DBK 1.5)* | Delta (DeepSeek - 2.2-Titan) | Delta (2.0 Pro - 2.2-Titan) |
 |---|---:|---:|---:|---:|---:|
 | Agentic Coding | 89.6% | 89.1% *(from DBK 1.5)* | 77.0% *(from DBK 1.5)* | -12.6 | -0.5 |
 | Tool Calling | 84.6% | 75.7% *(from DBK 1.5)* | 90.6% *(from DBK 1.5)* | +6.0 | -8.9 |
