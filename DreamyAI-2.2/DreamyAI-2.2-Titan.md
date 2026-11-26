@@ -10,7 +10,7 @@
 
 | Model | Context | Token Speed | Thinking |
 |---|---|---:|---|
-| DreamyAI-2.2-Titan | 1M | ~68 tk/s average | Enabled |
+| DreamyAI-2.2-Titan | 1M | ~87 tk/s average | Enabled |
 
 ## Agentic coding
 
