@@ -6,6 +6,9 @@
 
 **DreamyAI-2.2-Titan is the first Mixture-of-Experts (MoE) model from DreamyAI — and our first to natively support image inputs. Engineered for deep reasoning, complex coding, and long-context workflows.**
 
+
+**Warning!** This model is currently tagged as 'preview' meaning it is temporarily only avaible on dreamyai ultimate tier!
+
 ## Benchmark Version: **DreamyAIBench-2.0**
 
 | Model | Context | Token Speed | Thinking |
