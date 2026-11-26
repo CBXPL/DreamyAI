@@ -1,10 +1,14 @@
 # Benchmark
 
+## Technical details:
+**Model type** MoE
+**DreamyAI-2.2-Titan is the first Mixture-of-Experts (MoE) model from DreamyAI — and our first to natively support image inputs. Engineered for deep reasoning, complex coding, and long-context workflows.**
+
 ## Benchmark Version: **DreamyAIBench-2.0**
 
 | Model | Context | Token Speed | Thinking |
 |---|---|---:|---|
-| DreamyAI-2.2-Titan-CHK-570 | 1M | ~68 tk/s average | Enabled |
+| DreamyAI-2.2-Titan | 1M | ~68 tk/s average | Enabled |
 
 ## Agentic coding
 
